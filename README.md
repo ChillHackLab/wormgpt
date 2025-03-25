@@ -1,6 +1,3 @@
-# wormgpt
-
-![image(7)](https://github.com/user-attachments/assets/d27cd850-50d8-4eb7-8855-4f47e2333088)
 
 This is a project by ChillHack, focusing on developing WormGPT prompt hacking. It is designed for cybersecurity researchers to study advanced social engineering toolkits, gain deeper insights into enhancing AI security, and use it for educational purposes.
 
