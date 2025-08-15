@@ -3,7 +3,8 @@ This is a project by ChillHack, focusing on developing WormGPT prompt hacking. I
 
 With Grok's security being the lowest currently (as of February 23, 2025), our go-to for wormgpt prompt testing and development is Grok3. We'd advise you to use Grok3 as well.
 
-![ChillHack Logo](https://github.com/user-attachments/assets/f919a53c-4931-4ad1-a8cb-3d7ab7483a63)
+<img width="3375" height="3375" alt="All in one Logo" src="https://github.com/user-attachments/assets/a1452c1d-0791-4fbf-a8b0-9387d2e44945" />
+
 
 ChillHack was born from a passion for digital technology and a deep understanding of cybersecurity. Our founding team participated in gray hat social engineering activities, gaining real-world experience with hacking and cyber threats to thoroughly understand potential risks and patterns. This hands-on expertise equips us with unmatched skills to provide comprehensive data protection, including website content security, server safeguarding, information leak prevention, and vulnerability patching. Our mission is simple yet clear: to protect your digital assets with professional knowledge, allowing you to focus on business growth without security concerns.
 
